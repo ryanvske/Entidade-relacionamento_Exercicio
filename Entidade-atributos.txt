@@ -1,0 +1,24 @@
+Serviço:
+	codigo
+	id_cliente
+	id_funcionario
+	id_tipo
+	data
+Clientes:
+	codigo
+	nome
+	endereço
+	telefone
+Funcionarios:
+	codigo
+	id_categoria
+	nome
+	endereço
+	telefone
+Categorias:
+	codigo
+	salario
+	nome
+Tipos:
+	codigo
+	nome
